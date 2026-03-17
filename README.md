@@ -5,9 +5,13 @@ Este NotebookLM foi criado para ser utilizado como ferramenta de estudos sobre o
 
 Principais fontes utilizadas:
 https://owasp.org/Top10/2025/0x00_2025-Introduction/
+
 https://www.cloudflare.com/pt-br/learning/security/threats/owasp-top-10/
+
 https://www.azion.com/en/learning/websec/what-is-the-owasp-top-10-list-of-web-application-security-threats/
+
 https://about.gitlab.com/blog/2025-owasp-top-10-whats-changed-and-why-it-matters/
+
 https://blog.intelligencex.org/owasp-top-10-2025-vulnerabilities-complete-beginner-guide
 
 Perguntas relizadas ao NotebookLM:
