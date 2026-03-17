@@ -175,3 +175,5 @@ Para rever e consolidar os conhecimentos presentes nas fontes sobre o **OWASP To
 *   **Dê um exemplo real de como uma injeção de SQL (A05) pode ser realizada num formulário de login.**.
 *   **Se um atacante interceptar dados num Wi-Fi público, que categoria do OWASP Top 10 falhou?**.
 *   **Crie um cenário onde uma falha na integridade de dados (A08) comprometa uma atualização de software.**.
+
+Acesso ao NotebookLM: https://notebooklm.google.com/notebook/e6c643f1-ebf1-4b0c-865c-49bc1928c008
